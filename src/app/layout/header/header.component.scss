@@ -1,0 +1,16 @@
+
+.icons{
+    padding: 2px 10px;
+    
+    i{
+        float: right;
+        font-size: xx-large;
+        margin-left: 50px;
+    }
+}
+// $navbar-light-color:                rgba(var(--#{$prefix}emphasis-color-rgb), .65);
+.navbar{
+    padding: 5px 100px;
+    background: rgb(239,251,189);
+    background: linear-gradient(180deg, rgba(239,251,189,1) 42%, rgba(202,234,77,1) 79%, rgba(187,224,41,1) 100%, rgba(197,241,10,0) 100%);
+}
