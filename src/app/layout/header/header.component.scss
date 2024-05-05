@@ -10,7 +10,28 @@
 }
 // $navbar-light-color:                rgba(var(--#{$prefix}emphasis-color-rgb), .65);
 .navbar{
-    padding: 5px 100px;
-    background: rgb(239,251,189);
-    background: linear-gradient(180deg, rgba(239,251,189,1) 42%, rgba(202,234,77,1) 79%, rgba(187,224,41,1) 100%, rgba(197,241,10,0) 100%);
-}
+    padding: 15px 0px;
+    color: #11cc11;
+    border: 1px solid gray;
+
+  
+//     background: rgb(239,251,189);
+//     background: linear-gradient(180deg, rgba(239,251,189,1) 42%, rgba(202,234,77,1) 79%, rgba(187,224,41,1) 100%, rgba(197,241,10,0) 100%);
+ }
+ .navbar-brand{
+    color: #11cc11;
+    font-size: 30px;
+    font-weight: 600;
+    // border-right: 1px solid gray;
+ }
+
+ .delivery{
+    a{
+        color: black;
+    }
+ }
+ .form-control{
+    background-color: rgb(232,232,232);
+ }
+
+ 
